@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 9c8e56d0a0cdbe74a8e2dd5b2081e45a
+timeCreated: 1457413389
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Central_System
+    100002: //RootNode
+    100004: group1
+    100006: Left_side
+    100008: Left_Solar_Panels
+    100010: Left_Solar_Panels_Solar_Panel1_SolarPanel
+    100012: Left_Solar_Panels_Solar_Panel1_SolarPanel1
+    100014: Left_Solar_Panels_Solar_Panel5_SolarPanel
+    100016: Left_Support
+    100018: Metal_Frame
+    100020: Metal_Frame 1
+    100022: Metal_Frame 2
+    100024: Metal_Frame 3
+    100026: Metal_Frame 4
+    100028: Right_side
+    100030: Right_Solar_Panels
+    100032: Right_Solar_Panels_Solar_Panel1_SolarPanel
+    100034: Right_Solar_Panels_Solar_Panel3_SolarPanel
+    100036: Right_Solar_Panels_Solar_Panel5_SolarPanel
+    100038: Right_Solar_Panels_Solar_Panel5_SolarPanel1
+    100040: Right_Support
+    100042: Solar_Panel1
+    100044: Solar_Panel3
+    100046: Solar_Panel3 1
+    100048: Solar_Panel5
+    100050: Solar_Panel5 1
+    100052: Solar_Panels
+    400000: Central_System
+    400002: //RootNode
+    400004: group1
+    400006: Left_side
+    400008: Left_Solar_Panels
+    400010: Left_Solar_Panels_Solar_Panel1_SolarPanel
+    400012: Left_Solar_Panels_Solar_Panel1_SolarPanel1
+    400014: Left_Solar_Panels_Solar_Panel5_SolarPanel
+    400016: Left_Support
+    400018: Metal_Frame
+    400020: Metal_Frame 1
+    400022: Metal_Frame 2
+    400024: Metal_Frame 3
+    400026: Metal_Frame 4
+    400028: Right_side
+    400030: Right_Solar_Panels
+    400032: Right_Solar_Panels_Solar_Panel1_SolarPanel
+    400034: Right_Solar_Panels_Solar_Panel3_SolarPanel
+    400036: Right_Solar_Panels_Solar_Panel5_SolarPanel
+    400038: Right_Solar_Panels_Solar_Panel5_SolarPanel1
+    400040: Right_Support
+    400042: Solar_Panel1
+    400044: Solar_Panel3
+    400046: Solar_Panel3 1
+    400048: Solar_Panel5
+    400050: Solar_Panel5 1
+    400052: Solar_Panels
+    2300000: Central_System
+    2300002: Left_Solar_Panels_Solar_Panel1_SolarPanel
+    2300004: Left_Solar_Panels_Solar_Panel1_SolarPanel1
+    2300006: Left_Solar_Panels_Solar_Panel5_SolarPanel
+    2300008: Left_Support
+    2300010: Right_Solar_Panels_Solar_Panel1_SolarPanel
+    2300012: Right_Solar_Panels_Solar_Panel3_SolarPanel
+    2300014: Right_Solar_Panels_Solar_Panel5_SolarPanel
+    2300016: Right_Solar_Panels_Solar_Panel5_SolarPanel1
+    2300018: Right_Support
+    3300000: Central_System
+    3300002: Left_Solar_Panels_Solar_Panel1_SolarPanel
+    3300004: Left_Solar_Panels_Solar_Panel1_SolarPanel1
+    3300006: Left_Solar_Panels_Solar_Panel5_SolarPanel
+    3300008: Left_Support
+    3300010: Right_Solar_Panels_Solar_Panel1_SolarPanel
+    3300012: Right_Solar_Panels_Solar_Panel3_SolarPanel
+    3300014: Right_Solar_Panels_Solar_Panel5_SolarPanel
+    3300016: Right_Solar_Panels_Solar_Panel5_SolarPanel1
+    3300018: Right_Support
+    4300000: Central_System
+    4300002: Left_Support
+    4300004: Right_Support
+    4300006: Left_Solar_Panels_Solar_Panel1_SolarPanel1
+    4300008: Right_Solar_Panels_Solar_Panel5_SolarPanel1
+    4300010: Left_Solar_Panels_Solar_Panel1_SolarPanel
+    4300012: Left_Solar_Panels_Solar_Panel5_SolarPanel
+    4300014: Right_Solar_Panels_Solar_Panel5_SolarPanel
+    4300016: Right_Solar_Panels_Solar_Panel1_SolarPanel
+    4300018: Right_Solar_Panels_Solar_Panel3_SolarPanel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: b6213b58615bdbe4a97206d1238a24b5
+timeCreated: 1457413366
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ball_end
+    100002: ball_end2
+    100004: Bottom_Cyllinder
+    100006: //RootNode
+    100008: group1
+    100010: group2
+    100012: group3
+    100014: group4
+    100016: Left_Dish_ball_end1
+    100018: Left_side
+    100020: Left_Solar_Panels
+    100022: Main_Dish
+    100024: Main_Dish2
+    100026: Main_Line
+    100028: Metal_Frame
+    100030: Metal_Frame 1
+    100032: Metal_Frame 2
+    100034: Metal_Frame 3
+    100036: Metal_Frame 4
+    100038: pCylinder1
+    100040: pCylinder1 1
+    100042: pCylinder1 2
+    100044: pCylinder2
+    100046: pCylinder2 1
+    100048: pCylinder2 2
+    100050: polySurface1
+    100052: polySurface2
+    100054: Right_Dish_ball_end1
+    100056: Right_side
+    100058: Right_Solar_Panels
+    100060: Solar_Panel1
+    100062: Solar_Panel3
+    100064: Solar_Panel3 1
+    100066: Solar_Panel5
+    100068: Solar_Panel5 1
+    100070: Support_Base_cable_1
+    100072: Support_Base_cable_2
+    100074: Support_Base_cable_3
+    100076: Support_Dish_cable_4
+    100078: Support_Dish_cable_5
+    100080: Support_Dish_cable_6
+    100082: Support_Dishes
+    100084: Top_Circle
+    100086: Top_Dish
+    400000: ball_end
+    400002: ball_end2
+    400004: Bottom_Cyllinder
+    400006: //RootNode
+    400008: group1
+    400010: group2
+    400012: group3
+    400014: group4
+    400016: Left_Dish_ball_end1
+    400018: Left_side
+    400020: Left_Solar_Panels
+    400022: Main_Dish
+    400024: Main_Dish2
+    400026: Main_Line
+    400028: Metal_Frame
+    400030: Metal_Frame 1
+    400032: Metal_Frame 2
+    400034: Metal_Frame 3
+    400036: Metal_Frame 4
+    400038: pCylinder1
+    400040: pCylinder1 1
+    400042: pCylinder1 2
+    400044: pCylinder2
+    400046: pCylinder2 1
+    400048: pCylinder2 2
+    400050: polySurface1
+    400052: polySurface2
+    400054: Right_Dish_ball_end1
+    400056: Right_side
+    400058: Right_Solar_Panels
+    400060: Solar_Panel1
+    400062: Solar_Panel3
+    400064: Solar_Panel3 1
+    400066: Solar_Panel5
+    400068: Solar_Panel5 1
+    400070: Support_Base_cable_1
+    400072: Support_Base_cable_2
+    400074: Support_Base_cable_3
+    400076: Support_Dish_cable_4
+    400078: Support_Dish_cable_5
+    400080: Support_Dish_cable_6
+    400082: Support_Dishes
+    400084: Top_Circle
+    400086: Top_Dish
+    2300000: ball_end
+    2300002: ball_end2
+    2300004: Left_Dish_ball_end1
+    2300006: Main_Dish2
+    2300008: Main_Line
+    2300010: pCylinder1
+    2300012: pCylinder1 1
+    2300014: pCylinder1 2
+    2300016: pCylinder2
+    2300018: pCylinder2 1
+    2300020: pCylinder2 2
+    2300022: polySurface1
+    2300024: polySurface2
+    2300026: Right_Dish_ball_end1
+    2300028: Support_Base_cable_1
+    2300030: Support_Base_cable_2
+    2300032: Support_Base_cable_3
+    2300034: Support_Dish_cable_4
+    2300036: Support_Dish_cable_5
+    2300038: Support_Dish_cable_6
+    2300040: Top_Circle
+    3300000: ball_end
+    3300002: ball_end2
+    3300004: Left_Dish_ball_end1
+    3300006: Main_Dish2
+    3300008: Main_Line
+    3300010: pCylinder1
+    3300012: pCylinder1 1
+    3300014: pCylinder1 2
+    3300016: pCylinder2
+    3300018: pCylinder2 1
+    3300020: pCylinder2 2
+    3300022: polySurface1
+    3300024: polySurface2
+    3300026: Right_Dish_ball_end1
+    3300028: Support_Base_cable_1
+    3300030: Support_Base_cable_2
+    3300032: Support_Base_cable_3
+    3300034: Support_Dish_cable_4
+    3300036: Support_Dish_cable_5
+    3300038: Support_Dish_cable_6
+    3300040: Top_Circle
+    4300000: Top_Circle
+    4300002: polySurface1
+    4300004: polySurface2
+    4300006: Main_Line
+    4300008: Support_Base_cable_1
+    4300010: Support_Base_cable_2
+    4300012: Support_Base_cable_3
+    4300014: Support_Dish_cable_4
+    4300016: Support_Dish_cable_5
+    4300018: Support_Dish_cable_6
+    4300020: Main_Dish2
+    4300022: ball_end2
+    4300024: pCylinder1
+    4300026: pCylinder2
+    4300028: pCylinder1
+    4300030: pCylinder2
+    4300032: pCylinder1
+    4300034: pCylinder2
+    4300036: ball_end
+    4300038: Left_Dish_ball_end1
+    4300040: Right_Dish_ball_end1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
