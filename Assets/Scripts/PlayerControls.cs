@@ -54,8 +54,8 @@ public class PlayerControls : MonoBehaviour {
 	public bool locked;
 
 
-	[Range(0.01f, 1f)]
-	public float speed = 0.01f;
+	[Range(1f, 5f)]
+	public float speed = 1f;
 
 	void Start () {
 
@@ -155,7 +155,7 @@ public class PlayerControls : MonoBehaviour {
 				v_x = body.velocity.x;
 				v_y = body.velocity.y;
 				if (((v_x < v_max && v_x >= 0) || (v_x > -v_max && v_x <= 0)) && ((v_z >= 0 && v_z < v_max) || (v_z <= 0 && v_z > -v_max)) && ((v_y < v_max && v_y >= 0) || (v_y > -v_max && v_y <= 0))) {
-					body.AddForce (transform.forward);
+					body.AddForce (transform.forward * speed);
 				}
 
 				v_x = Mathf.Round (v_x);
@@ -167,7 +167,7 @@ public class PlayerControls : MonoBehaviour {
 				v_x = body.velocity.x;
 				v_y = body.velocity.y;
 				if (((v_x < v_max && v_x >= 0) || (v_x > -v_max && v_x <= 0)) && ((v_z >= 0 && v_z < v_max) || (v_z <= 0 && v_z > -v_max)) && ((v_y < v_max && v_y >= 0) || (v_y > -v_max && v_y <= 0))) {
-					body.AddForce (-transform.forward);
+					body.AddForce (-transform.forward * speed);
 				}
 
 				v_x = Mathf.Round (v_x);
@@ -179,7 +179,7 @@ public class PlayerControls : MonoBehaviour {
 				v_x = body.velocity.x;
 				v_y = body.velocity.y;
 				if (((v_x < v_max && v_x >= 0) || (v_x > -v_max && v_x <= 0)) && ((v_z >= 0 && v_z < v_max) || (v_z <= 0 && v_z > -v_max)) && ((v_y < v_max && v_y >= 0) || (v_y > -v_max && v_y <= 0))) {
-					body.AddForce (-transform.right);
+					body.AddForce (-transform.right * speed);
 				}
 
 				v_x = Mathf.Round (v_x);
@@ -191,7 +191,7 @@ public class PlayerControls : MonoBehaviour {
 				v_x = body.velocity.x;
 				v_y = body.velocity.y;
 				if (((v_x < v_max && v_x >= 0) || (v_x > -v_max && v_x <= 0)) && ((v_z >= 0 && v_z < v_max) || (v_z <= 0 && v_z > -v_max)) && ((v_y < v_max && v_y >= 0) || (v_y > -v_max && v_y <= 0))) {
-					body.AddForce (transform.right);
+					body.AddForce (transform.right * speed);
 				}
 
 				v_x = Mathf.Round (v_x);
