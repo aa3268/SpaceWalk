@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: ea8e0a47ef66f6f41b3a089bcd0c9d24
+timeCreated: 1456844714
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ball_end
+    100002: ball_end1
+    100004: ball_end1 1
+    100006: ball_end2
+    100008: Bottom_Cyllinder
+    100010: //RootNode
+    100012: group1
+    100014: group2
+    100016: group3
+    100018: group4
+    100020: Left_Dish
+    100022: Main_Dish
+    100024: Main_Dish 1
+    100026: Main_Dish1
+    100028: Main_Dish1 1
+    100030: Main_Dish2
+    100032: Main_Line
+    100034: pCylinder1
+    100036: pCylinder1 1
+    100038: pCylinder1 2
+    100040: pCylinder2
+    100042: pCylinder2 1
+    100044: pCylinder2 2
+    100046: Right_Dish
+    100048: Support_Base_cable_1
+    100050: Support_Base_cable_2
+    100052: Support_Base_cable_3
+    100054: Support_Dish_cable_4
+    100056: Support_Dish_cable_5
+    100058: Support_Dish_cable_6
+    100060: Support_Dishes
+    100062: Top_Circle
+    100064: Top_Dish
+    400000: ball_end
+    400002: ball_end1
+    400004: ball_end1 1
+    400006: ball_end2
+    400008: Bottom_Cyllinder
+    400010: //RootNode
+    400012: group1
+    400014: group2
+    400016: group3
+    400018: group4
+    400020: Left_Dish
+    400022: Main_Dish
+    400024: Main_Dish 1
+    400026: Main_Dish1
+    400028: Main_Dish1 1
+    400030: Main_Dish2
+    400032: Main_Line
+    400034: pCylinder1
+    400036: pCylinder1 1
+    400038: pCylinder1 2
+    400040: pCylinder2
+    400042: pCylinder2 1
+    400044: pCylinder2 2
+    400046: Right_Dish
+    400048: Support_Base_cable_1
+    400050: Support_Base_cable_2
+    400052: Support_Base_cable_3
+    400054: Support_Dish_cable_4
+    400056: Support_Dish_cable_5
+    400058: Support_Dish_cable_6
+    400060: Support_Dishes
+    400062: Top_Circle
+    400064: Top_Dish
+    2300000: ball_end
+    2300002: ball_end1
+    2300004: ball_end1 1
+    2300006: ball_end2
+    2300008: Bottom_Cyllinder
+    2300010: Main_Dish 1
+    2300012: Main_Dish1
+    2300014: Main_Dish1 1
+    2300016: Main_Dish2
+    2300018: Main_Line
+    2300020: pCylinder1
+    2300022: pCylinder1 1
+    2300024: pCylinder1 2
+    2300026: pCylinder2
+    2300028: pCylinder2 1
+    2300030: pCylinder2 2
+    2300032: Support_Base_cable_1
+    2300034: Support_Base_cable_2
+    2300036: Support_Base_cable_3
+    2300038: Support_Dish_cable_4
+    2300040: Support_Dish_cable_5
+    2300042: Support_Dish_cable_6
+    2300044: Top_Circle
+    3300000: ball_end
+    3300002: ball_end1
+    3300004: ball_end1 1
+    3300006: ball_end2
+    3300008: Bottom_Cyllinder
+    3300010: Main_Dish 1
+    3300012: Main_Dish1
+    3300014: Main_Dish1 1
+    3300016: Main_Dish2
+    3300018: Main_Line
+    3300020: pCylinder1
+    3300022: pCylinder1 1
+    3300024: pCylinder1 2
+    3300026: pCylinder2
+    3300028: pCylinder2 1
+    3300030: pCylinder2 2
+    3300032: Support_Base_cable_1
+    3300034: Support_Base_cable_2
+    3300036: Support_Base_cable_3
+    3300038: Support_Dish_cable_4
+    3300040: Support_Dish_cable_5
+    3300042: Support_Dish_cable_6
+    3300044: Top_Circle
+    4300000: Top_Circle
+    4300002: Bottom_Cyllinder
+    4300004: Main_Line
+    4300006: Support_Base_cable_1
+    4300008: Support_Base_cable_2
+    4300010: Support_Base_cable_3
+    4300012: Main_Dish
+    4300014: ball_end
+    4300016: Support_Dish_cable_4
+    4300018: Support_Dish_cable_5
+    4300020: Support_Dish_cable_6
+    4300022: Main_Dish1
+    4300024: ball_end1
+    4300026: Main_Dish2
+    4300028: ball_end2
+    4300030: Main_Dish1
+    4300032: ball_end1
+    4300034: pCylinder1
+    4300036: pCylinder2
+    4300038: pCylinder1
+    4300040: pCylinder2
+    4300042: pCylinder1
+    4300044: pCylinder2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
