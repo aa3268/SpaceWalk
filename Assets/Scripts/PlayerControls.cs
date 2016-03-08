@@ -4,7 +4,9 @@ using System.Collections;
 
 public class PlayerControls : MonoBehaviour {
 	
-	
+	public GameObject needle;
+	public float fuel;
+
 	// Movement and rotation speeds
 	public float movementSpeed = 5.0f;
 	public float rotationSpeed_Body = 100f;
@@ -93,7 +95,10 @@ public class PlayerControls : MonoBehaviour {
 			}
 		}
 
-
+		if (fuel > 0.1f) {
+			fuel -= Time.deltaTime;
+			needle.transform.Rotate(Vector3.down * Time.deltaTime);
+		}
 	
 	}
 	void FixedUpdate(){
